@@ -2,10 +2,6 @@
 #+Author: Daniel Ding
 
 * Execute the scripts
-** ManiSkill
-#+begin_src sh
-  python maniskill_test.py
-#+end_src
 ** IsaacLab
 #+begin_src sh
   ./isaaclab.sh -p isaaclab_test.py --enable_cameras
