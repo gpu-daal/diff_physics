@@ -1,0 +1,4 @@
+#+TITLE: State-Based Robot-Simple
+
+* trained model
+- checkpoint [[/home/daniel/Documents/workspace/IsaacLab/logs/rl_games/state_based_test/2025-05-08_17-07-35/nn/last_state_based_test_ep_65400_rew_0.61380297.pth]]
