@@ -1,0 +1,6 @@
+#+TITLE: Readme
+
+* run
+#+begin_src bash
+  python ./reinforce_invpend_gym_v26.py
+#+end_src
